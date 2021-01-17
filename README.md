@@ -1,5 +1,7 @@
 # Auto Tint 
 
+#### All you need is the single file [autotint.rpy](https://github.com/RenpyRemix/auto-tint/blob/main/game/autotint.rpy). Just read through the comments, maybe delete the sample bits at the top, drop it in your game and use as advised.
+
 Using Ren'Py 7.4 matrixcolor to provide a smooth (over duration) tint of displayables.
 
 This is a pretty basic piece of code which allows for separating the tint (or tints) from the images using them as well as providing a smooth dissolve like transition from one tint to the next.
